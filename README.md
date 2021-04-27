@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Anurag
+- 👀 I’m interested in Software/Game Development
+- 🌱 I’m currently learning python
+- 📫 Anurag.karmakar765@gmail.com
+- New on GitHub will appreciate assistance ^_^
