@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Anurag
 - 👀 I’m interested in Software/Game Development
-- 🌱 I’m currently learning python
+- 🤞 Skills Acquired!:- Python/Advanced Python + Django
+- 🌱 I’m currently learning MySQL
 - 📫 Anurag.karmakar765@gmail.com
 - New on GitHub will appreciate assistance ^_^
