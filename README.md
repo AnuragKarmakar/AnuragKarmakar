@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anurag
 - 👀 I’m interested in Software/Game Development
-- 🤞 Skills Acquired!:- Python/Advanced Python + Django, MySQL
-- 🌱 I’m currently learning JAVA/JSP
+- 🤞 Skills Acquired!:- Python/Advanced Python + Django, MySQL, Java & JSP
+- 🌱 I’m currently learning React
 - 📫 Anurag.karmakar765@gmail.com
 - New on GitHub will appreciate assistance ^_^
