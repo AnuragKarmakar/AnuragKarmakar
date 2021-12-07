@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anurag
 - 🤞 Skills Acquired!:- Python/Advanced Python + Django, MySQL, Java & JSP, React, Android (Java + Kotlin)
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Machine Learning
 - 📫 Anurag.karmakar765@gmail.com
 - New on GitHub will appreciate assistance ^_^
