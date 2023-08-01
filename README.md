@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anurag
-- 🤞 Skills Acquired!:- Python/Advanced Python + Django, MySQL, Java & JSP, React, Android (Java + Kotlin)
-- 🌱 I’m currently learning: Dart / Flutter
+- 🤞 Skills Acquired!:- Python/Advanced Python + Django, MySQL, Java & JSP, React, Android (Java)
+- 🌱 I’m currently learning: React Native
 - 📫 Anurag.karmakar222@gmail.com
 - New on GitHub will appreciate assistance ^_^
