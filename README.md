@@ -6,6 +6,7 @@
 
 
 - 🌱 I’m currently learning **React Native**
+- ⚒️ Open to work/intern
 
 - 📫 How to reach me **anurag.karmakar222@gmail.com**
 
