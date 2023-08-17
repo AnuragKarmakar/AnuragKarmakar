@@ -1,0 +1,116 @@
+@media (max-width:600px) {
+
+
+    body {
+        margin: 0px;
+        padding: 0px;
+        /* background-image: linear-gradient(125deg, #464546, #282828); */
+        background-image: url(../img/pexels-andrew-neel-3178786.jpg);
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    /* #ham {
+        display: block;
+        margin-right: 6%;
+        padding: 10px;
+        border: 1px solid #4f4f4f45;
+        border-radius: 5px;
+    } */
+
+    #ham {
+        display: none;
+    }
+
+    #mob-warning {
+        display: none;
+    }
+
+    #navbar-section {
+
+        display: none;
+        position: sticky;
+        top: 0px;
+        width: 100%;
+        padding: 20px 0px;
+
+    }
+
+
+    #navbar-section #nav-center,
+    #navbar-section #nav-right {
+        display: none;
+    }
+
+    #home-section #img-container {
+        width: 50%;
+    }
+
+    #home-section #img-container img {
+        width: 100%;
+    }
+
+    #bottom-bars {
+        width: 90%;
+    }
+
+    #bottom-bars hr {
+        display: none;
+    }
+
+    #about-section #about-container {
+        flex-direction: column;
+        width: 60%;
+        gap: 20px;
+    }
+
+    #about-section #img-desc {
+        width: 70%;
+    }
+
+    #profile-img-container {
+        width: 100%;
+        height: 100%;
+    }
+
+    #number-disp {
+        width: 75vw;
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+        padding: 10px 0px;
+    }
+
+    #number-disp h1 {
+        font-size: 24px;
+    }
+
+    #number-disp p {
+        font-size: 16px;
+    }
+
+    #about-section #desc {
+        width: 100%;
+        font-size: 16px;
+    }
+
+    #skills-section {
+        width: 85%;
+        border-radius: 50px;
+        margin-top: 30px;
+    }
+
+    .skill {
+        width: 35%;
+    }
+
+    /* project section works great */
+
+    #contact-section form {
+        width: 100%;
+    }
+
+
+}

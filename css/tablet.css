@@ -1,0 +1,25 @@
+@media (max-width: 1000px) {
+    #nav-right {
+        display: none;
+    }
+
+    #nav-center {
+        margin-right: 20px;
+    }
+
+
+    #about-section #about-container {
+        flex-direction: column;
+        width: 60%;
+        gap: 20px;
+    }
+
+    #about-section #img-desc {
+        width: 70%;
+    }
+
+    #about-section #desc {
+        width: 95%;
+        font-size: 16px;
+    }
+}
