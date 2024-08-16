@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently pursuing MS, Cybersecurity.
 - ⚒️ Open to work/intern
 
 - 📫 How to reach me **anurag.karmakar222@gmail.com**
